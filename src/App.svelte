@@ -14,7 +14,7 @@
 </script>
 
 <main>
-  <h1>ALE-laskuri</h1>
+  <h1>Tuomon ALE-laskuri</h1>
 
   <label for="hinta">Hinta</label>
   <input id="hinta" type="number" min="0" max="999999" bind:value={hinta} />
